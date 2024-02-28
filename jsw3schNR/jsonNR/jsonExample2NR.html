@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Creating an Object from a JSON String</h2>
+
+<p id="demo"></p>
+
+<script>
+const txt = '{"person":[\
+    {"name":"John1", "age":301, "city":"New York1"}, \
+    {"name":"John2", "age":302, "city":"New York2"}, \
+    {"name":"John3", "age":303, "city":"New York3"}, \
+    {"name":"John4", "age":304, "city":"New York4"}\
+    ]\
+}';
+alert(typeof txt)
+const obj = JSON.parse(txt);
+alert(typeof obj);
+
+let textExtracted = "";
+for (let x in obj.person) {
+  textExtracted += obj.person[x].name + ", " + obj.person[x].age + ", " + obj.person[x].city + "<br>";
+}
+
+document.getElementById("demo").innerHTML = textExtracted
+
+</script>
+
+</body>
+</html>

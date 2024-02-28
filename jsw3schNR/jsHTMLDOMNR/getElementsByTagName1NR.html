@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+
+<p>First p Element</p>
+<p>Second p Element<b>getElementsByTagName</b> method.</p>
+
+<h5 id="demo"></h5>
+
+<script>
+const element = document.getElementsByTagName("p");
+alert(element.length);
+let txt = "";
+// for (let i in element) {txt += element[i].innerHTML + "<br>";}
+for (let i=0; i < element.length; i++) {txt += element[i].innerHTML + "<br>";}
+document.getElementById("demo").innerHTML = txt;
+</script>
+
+</body>
+</html>

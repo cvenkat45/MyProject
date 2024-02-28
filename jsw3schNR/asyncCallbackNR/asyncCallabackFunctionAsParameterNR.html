@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+<h1>JavaScript Functions</h1>
+<h2>Callback Functions</h2>
+
+<p>The result of the calculation is:</p>
+<p id="demo"></p>
+
+<script>
+function myDisplayer(something) {
+  document.getElementById("demo").innerHTML = something;
+}
+
+function myCalculator(num1, num2, myCallback) {   // myCallback is 'function' parameter in myCalculator function.
+  let sum = num1 + num2;
+  myCallback(sum);
+}
+
+myCalculator(5, 5, myDisplayer);  // 'myDisplayer' function calledback without () in myCalculator.
+</script>
+
+</body>
+</html>
+
+{% comment %}
+Note
+When you pass a function as an argument, remember not to use parenthesis.
+
+Right: myCalculator(5, 5, myDisplayer);
+
+Wrong: myCalculator(5, 5, myDisplayer());
+{% endcomment %}

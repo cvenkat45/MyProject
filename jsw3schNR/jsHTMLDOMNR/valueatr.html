@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+<img id="image" src="smiley.jpg" width="156" height="148" alt="landscape.jpg">
+
+<p id="teet">The original image was smiley.jpg, but the script changed it to landscape.jpg</p>
+
+<script>
+document.getElementById("image").src = "landscape.jpg";
+alert("wait...");
+document.getElementById("teet").innerHTML = "This is inner HTML after script tag"
+</script>
+
+</body>
+</html>

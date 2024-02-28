@@ -1,0 +1,1 @@
+alert("Hi I am from JS file you know NR!")

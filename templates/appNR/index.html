@@ -1,0 +1,141 @@
+{%  load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MiSite2NR Title</title>
+
+    <link rel="stylesheet" href="{% static 'polls/css/bootstrap.min.css' %}">
+
+    <link rel="stylesheet" href="{% static 'polls/css/style.css' %}">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    {% comment %}
+    	<script src="{% static 'polls/js/jquery.min.js' %}"></script>
+    {% endcomment %}
+    
+    
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">MySite2NR Project</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="{% url 'polls:detail' 1 %}" data-target="#center-content">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'polls:detail' 2 %}" data-target="#center-content">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'polls:detail' 3 %}" data-target="#center-content">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'polls:detail' 12 %}" data-target="#center-content">Polls</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'polls:detail' 5 %}" data-target="#center-content">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-sm-3 col-md-2">
+            <ul class="list-group">
+                <li class="list-group-item active">Menu</li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 1 %}" data-target="#center-content">Link 1 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 2 %}" data-target="#center-content">Link 2 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 3 %}" data-target="#center-content">Link 3 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 4 %}" data-target="#center-content">Link 4 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 5 %}" data-target="#center-content">Link 5 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 6 %}" data-target="#center-content">Link 6 </a></li>
+                <li class="list-group-item"><a href="{% url 'polls:detail' 7 %}" data-target=".col-sm-9">Link 7 Jumbotron</a></li>
+                <li class="list-group-item"><a href="{% url 'link1' %}" data-target="#center-content">link1.html</a></li>
+            </ul>
+        </div>
+
+        <div class="col-sm-9 col-md-7" id="center-content">
+            <div class="jumbotron">
+                <h1>Welcome to MySite2NR Website!</h1>
+                    <p>This is the Centre grid for showing the content as per link clicked on the Left grid.  
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, 
+                        quam vel sollicitudin interdum, risus tortor laoreet augue, 
+                        at molestie ligula est sit amet nisl.
+                    </p>
+                <a href="#" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-3">
+            <div class="card">
+                <img src="{% static 'polls/images/background.png' %}" class="card-img-top" alt="Advertisement">
+                <div class="card-body">
+                    <h5 class="card-title">Advertise Here!</h5>
+                    <p class="card-text">This is a great space to promote your products or services.</p>
+                    <a href="#" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="page-footer font-small bg-dark text-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>About Us</h5>
+                <p>Lorem ipsum dolor sit amet.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Contact Us</h5>
+                <ul class="list-unstyled">
+                    <li>Address: 123 Main Street, Anytown, USA</li>
+                    <li>Email: info@yourwebsite.com</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script>
+        $(document).ready(function() {
+          $('.navbar-nav a',).click(function(event) {
+            event.preventDefault(); // Prevent default link behavior
+            var target = $(this).data('target'); // Get the target element ID
+            var link = $(this).attr('href'); // Get the clicked link URL
+        
+            $.ajax({
+              url: link, // Send request to the clicked link's URL
+              success: function(response) {
+                $(target).html(response); // Update the target element with response
+                }
+            });
+          });
+        });
+        
+        $(document).ready(function() {
+          $('.list-group a',).click(function(event) {
+            event.preventDefault(); // Prevent default link behavior
+            var target = $(this).data('target'); // Get the target element ID
+            var link = $(this).attr('href'); // Get the clicked link URL
+        
+            $.ajax({
+              url: link, // Send request to the clicked link's URL
+              success: function(response) {
+                $(target).html(response); // Update the target element with response
+                }
+            });
+          });
+        });
+    </script>
+</body>

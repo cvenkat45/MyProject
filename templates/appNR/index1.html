@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>MySite2NR AI corrected code</title>
+</head>
+<body>
+
+<div class="col-sm-9 col-md-7" id="center-content">
+    <div class="jumbotron">
+        <h1>Welcome to MySite2NR Website!</h1>
+        <p>This is the center grid for showing the content as per link clicked on the Left grid. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, 
+            quam vel sollicitudin interdum, risus tortor laoreet augue, 
+            at molestie ligula est sit amet nisl.
+        </p>
+        <a href="#" class="btn btn-primary">Read More</a>
+    </div>
+</div>
+
+<script>
+$(document).ready(function() {
+    $('.list-group a').click(function(event) {
+        event.preventDefault();
+        var url = $(this).attr('href'); // Get the clicked link's URL
+        $.ajax({
+            url: url,
+            success: function(response) {
+                $('#center-content').html(response); // Update the central content
+            }
+        });
+    });
+});
+</script>
+</body>
+</html>

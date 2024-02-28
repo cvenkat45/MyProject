@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+
+<p>3Finding HTML Elements by Class Name.</p>
+<p class="intro">3Hello World!</p>
+<p class="intro">3This example demonstrates the <b>getElementsByClassName</b> method.</p>
+
+<p id="demo"></p>
+
+<script>
+const x = document.getElementsByClassName("intro");
+alert(x.length);
+alert(typeof x);
+
+let txt = "";
+// for (let i in x){txt += x[i].innerHTML + "<br>";}
+for (let i =0; i < x.length; i++) {txt += x[i].innerHTML + "<br>";}
+document.getElementById("demo").innerHTML = txt;
+</script>
+
+</body>
+</html>

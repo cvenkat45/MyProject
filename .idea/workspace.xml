@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15353ffe-afd6-44e7-9471-c181ba865d62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mysite2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atDirNR/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atDirNR/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/static/screenshots/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/static/screenshots/2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/static/screenshots/3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/static/screenshots/4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/static/screenshots/5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/aJAX1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/aJAX2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/ajaxFetchFileNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/ajax_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/cd_catalogue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/cd_catelogue2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/AJAXNR/fetch_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/SymbolNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/alertBoxNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/alertConfirmBoxNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/arrayFromNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/arrayKeysNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/arrowFunctionNR/arrowFunction1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/arrowFunctionNR/arrowFunction2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncCallbackNR/asyncCallabackFunctionAsParameterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncCallbackNR/asyncCallbackFunctionAsParameter2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncCallbackNR/asyncPassingFunctionItselfAsParameterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncCallbackNR/setIntervalCallbackFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncCallbackNR/setTimeOutCallbackAsyncFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/async01NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/asyncAwaitSetTimeOutPromiseNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/asyncAwaitWaitingForFilePromiseNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/asyncKeywordReturnsPromise1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/awaitKeywordInAsyncFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/promisesNR/mycar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/promisesNR/promiseExample2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/promisesNR/promiseExampleNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/asyncNR/promisesNR/promiseResolveExampleNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/consoleLogNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/cookieNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/applyMethodArgumentsAsArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/argumentsObjectFunction2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/argumentsObjectFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/arrowFunction1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/arrowFunction2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/bindMethodOfAnotherObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/callMethodNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/callMethodWithArgumentsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/closureFunctionSelfInvokingNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/declareFunctionsNR/argumentsLengthFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/declareFunctionsNR/declareFunctionExecuteLaterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/declareFunctionsNR/toStringConvertFunctionReturnNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/defaultValueOfParameterFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/expressionFunctionsNR/anonymousFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/expressionFunctionsNR/automaticallyInvokeFunctionExpressionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/functionConstructorNewFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/moreArgumentsThanParameterFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/functionsNR/restParametersFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/getterSetterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/getterSetterInClassNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/inheritClassWithExtendsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/jsclass2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/jsclass3NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/jsclassNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsClassNR/staticMethodClassNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/animation1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListener1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListener2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListener3NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListenerEventsToSameElementNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListenerPassingParametersNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListenerS1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAddEventListenerWindowResizeNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentAnchorsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentBodyNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentCSSStyle1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentDocumentElementNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentEmbedsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentEventBubblingCaptureNr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentFormsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentFormsValidation1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentFormsValidation2Nr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentFormsValidationAutomaticNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentHeadNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentImagesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnChangeEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnClickEvent1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnClickEvent2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnClickEvent3NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnClickEvent4NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnClickEvent5NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnFocusEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnInputEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnLoadEvent2.NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnLoadEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnMouseOverOnMouseOutEvent2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnMouseOverOnMouseOutEventsNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnMouseUpOnMouseDownEvent2.NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnMouseUpOnMouseDownEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentOnUnloadEventNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentRemoveEventListenerNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentScriptNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentTitleNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentWriteNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/documentlinksNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/domExample1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/getElementById1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/getElementsByClassName1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/getElementsByTagName1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/gettingHTMLObjectCollections1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/landscape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/querySelectorAllCSSSelector1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/smiley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsHTMLDOMNR/valueatr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsmodulesNR/defaultExportMessageNR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsmodulesNR/defaultImportMessageNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsmodulesNR/namedExportPersonNR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsmodulesNR/namedImportPersonNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonExample2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonExampleNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonFetchArrayJSONfromServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonFetchJSONfromServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonFromDataServerNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/jsonStingifyBrowserToDataServerNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/json_demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/jsonNR/json_demo_array.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forInLoopAccessArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forInLoopAccessKeysAndValuesOfObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forInLoopAccessKeysOfObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forInLoopAccessValuesOfObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forOfLoopAccessArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forOfLoopAccessKeysAndValuesOfObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forOfLoopAccessStringNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/forOfLoopKeyValueObjectEntriesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/loopsNR/keyValueObjectValuesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/addingElementsToMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/changeValuesOfElementsInMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/createMapFromArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/entriesMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/forEachMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/getValueOfElementByKeyOfMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/keysMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/numberOfElementsMapSizeNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/sumValuesMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/mapsNR/valuesMapNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/nullUndefinedTestNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/addMethodToObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/addPropertyToConstructorUsingPrototypeNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/addingMethodToConstructorNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/addingMethodToConstructorUsingPrototypeNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/addingMethodToObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/addingPropertyToConstructorNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/constructorsNR/constructorFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayObjectForInLoopNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayObjectJSONStringifyNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayObjectNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayObjectValuesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayPropertiesAsStringNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayStringifyDateNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/displayObjectsNR/displayStringifyObjectFunctionNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/functionOrGetter2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/functionOrGetterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/getterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/getterSetterDefinePropertyNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/getterUpperCaseNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/setterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/getterSetterNR/setterStoresUpperCaseNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/iterateOverObjectsNR/iterateArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/iterateOverObjectsNR/iterateStringNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/objectMethodsNR/objectMethodExample1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/primitiveVersionOfObjectsBetterNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/regularexpressions01NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setClearTimeoutOnsetTimeoutNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setTimeout2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setTimeout3NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setTimeoutNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/addingEqualElementsToSetsNoDuplicatesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/alertPromptBoxNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/createSetAddValuesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/createSetAddVariablesNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/createSetNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/forEachElementOfSetNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/setIntervalNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/valuesSet2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/setsNR/valuesSetNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/stringifyArrayNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/typeScript/typeScript1NR.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/webAPINR/webAPIGeolocationOfBrowserNR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/webAPINR/webFormsAPINR/webFormsAPI1NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/webAPINR/webFormsAPINR/webFormsAPI2NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsw3schNR/webAPINR/webFormsAPINR/webFormsAPI3NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/PythonPathcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/dark_mode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/nav_sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/responsive_rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-hidelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-viewlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/change_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/nav_sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/popup_response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/prepopulate_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/http_ajax.googleapis.com_ajax_libs_jquery_3.6.0_jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/bootstrap-tweaks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/font-awesome-4.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/css/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/css/jquery.json-view.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/img/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/js/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/js/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/docs/js/jquery.json-view.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/img/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/ajax-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/coreapi-0.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/csrf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/rest_framework/js/prettify-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/screenshots/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/screenshots/2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/screenshots/3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/screenshots/4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/screenshots/5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/static/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite2/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/http_ajax.googleapis.com_ajax_libs_jquery_3.6.0_jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/srcindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/appNR/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/appNR/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/appNR/index2GridLayout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/appNR/link1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2c2Ue4kcvIYNjXZpUy287NdUf7t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django tests.Test: polls.tests.QuestionIndexViewTests.executor&quot;: &quot;Run&quot;,
+    &quot;Django tests.Test: polls.tests.QuestionModelTests.executor&quot;: &quot;Run&quot;,
+    &quot;Django tests.Test: polls.tests.QuestionModelTests.test_was_published_recently_with_future_question.executor&quot;: &quot;Run&quot;,
+    &quot;Django tests.Test: polls.tests.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.SymbolNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.aJAX2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.aJax1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addMethodToObjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addPropertyToConstructorUsingPrototypeNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addingElementsToMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addingEqualElementsToSetsNoDuplicatesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addingMethodToConstructorUsingPrototypeNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.addingMethodToObjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ajaxFetchFileNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.alertBoxNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.alertConfirmBoxNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.alertPromptBoxNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.animation1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.applyMethodArgumentsAsArrayNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.argumentsLengthFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.arrayFromNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.arrayKeysNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.arrowFunction1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.arrowFunction2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.async01NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.asyncAwaitSetTimeOutPromiseNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.asyncAwaitWaitingForFilePromiseNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.asyncCallabackFunctionAsParameterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.asyncKeywordReturnsPromise1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.awaitKeywordInAsyncFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.callFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.callFunctionWithArgumentsNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.changeValuesOfElementsInMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.consoleLogNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.cookieNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.createMapFromArrayNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.createSetAddValuesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.createSetAddVariablesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.createSetNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.defaultImportMessageNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayObjectForInLoopNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayObjectJSONStringifyNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayObjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayObjectValuesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayPropertiesAsStringNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayStringifyDateNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.displayStringifyObjectFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListener1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListener2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListener3NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListenerEventsToSameElementNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListenerPassingParametersNr.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListenerS1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAddEventListenerWindowResizeNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentAnchorsNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentBodyNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentCSSStyle1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentDocumentElementNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentEmbedsNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentEventBubblingCaptureNr.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentFormsValidation2Nr.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentFormsValidationAutomaticNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnChangeEventNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnClickEvent1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnClickEvent2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnClickEvent3NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnClickEvent4NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnClickEvent5NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnFocusEventNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnInputEventNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnLoadEvent2.NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnMouseOverOnMouseOutEvent2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnMouseOverOnMouseOutEventsNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentOnMouseUpOnMouseDownEventNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentRemoveEventListenerNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentScriptNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentTitleNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentWriteNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentformsNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentheadNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentlinksNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.documentonloadEventNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.domExample1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.entriesMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forEachElementOfSetNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forEachMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forInArrayInArrayNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forInLoopAccessKeysAndValuesOfObjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forInLoopAccessKeysOfObjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forInLoopthroughPropertiesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forOfNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forOfStringNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forOfobjectNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.formsValidationNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.functionOrGetterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getElementById1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getElementsByClassName1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getElementsByTagName1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getValueOfElementByKeyOfMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getterSetterDefinePropertyNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getterSetterInClassNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getterSetterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.getterUpperCaseNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.gettinghtmlObjectCollections1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.iterateArrayNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.iterateStringNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jasonExampleNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jasonFromDataServerNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsclass2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsclassNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsonExample2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsonFetchArrayJSONfromServer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsonFetchJSONfromServer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.jsonStingifyBrowserToDataServerNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.keyValueObjectValuesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.keyValueValuesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.keysMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.loopKeyValuePairsEntriesNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.namedImportPersonNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.nullUndefinedTestNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.numberOfElementsMapSizeNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.objectMethodExample1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.primitiveVersionOfObjectsBetterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.promiseExample2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.promoiseExampleNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.querySelectorAllCSSSelector1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.regularexpressions01NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setClearTimeoutOnsetTimeoutNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setIntervalCallbackFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setIntervalNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setTimeOutCallbackAsyncFunctionNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setTimeOutNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setTimeout2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setTimeout3NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setterNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.setterStoresUpperCaseNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.staticMethodClassNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.stringifyArrayNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.sumValuesMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.valueatr.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.valuesMapNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.valuesSet2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.valuesSetNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.webAPIGeolocationOfBrowserNR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.webFormsAPI1NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.webFormsAPI2NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.webFormsAPI3NR.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PythonPathcheck (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.PythonPathcheck.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Django-Ajax-CRUD&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.django.DjangoModulesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mysite2\templates" />
+      <recent name="D:\mysite2\src\Products" />
+      <recent name="D:\mysite2" />
+      <recent name="D:\mysite2\mysite2\static" />
+      <recent name="D:\mysite2\crud\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mysite2\src" />
+      <recent name="D:\mysite2\jsw3schNR\jsHTMLDOMNR" />
+      <recent name="D:\mysite2\jsw3schNR\asyncNR" />
+      <recent name="D:\mysite2\jsw3schNR\jsClassNR" />
+      <recent name="D:\mysite2\templates\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.valueatr.html">
+    <configuration name="forOfLoopAccessStringNR.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite2/jsw3schNR/loopsNR/forOfLoopAccessStringNR.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="jsonFetchArrayJSONfromServer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite2/jsw3schNR/jsonNR/jsonFetchArrayJSONfromServer.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="jsonFetchJSONfromServer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite2/jsw3schNR/jsonNR/jsonFetchJSONfromServer.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="keyValueObjectValuesNR.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite2/jsw3schNR/loopsNR/keyValueObjectValuesNR.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="valueatr.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mysite2/jsw3schNR/jsHTMLDOMNR/valueatr.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mysite2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite2" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/.venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (mysite2)" />
+      <option name="WORKING_DIRECTORY" value="D:\mysite2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.mysite2" />
+      <item itemvalue="JavaScript Debug.valueatr.html" />
+      <item itemvalue="JavaScript Debug.forOfLoopAccessStringNR.html" />
+      <item itemvalue="JavaScript Debug.jsonFetchArrayJSONfromServer.html" />
+      <item itemvalue="JavaScript Debug.jsonFetchJSONfromServer.html" />
+      <item itemvalue="JavaScript Debug.keyValueObjectValuesNR.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.valueatr.html" />
+        <item itemvalue="JavaScript Debug.jsonFetchArrayJSONfromServer.html" />
+        <item itemvalue="JavaScript Debug.jsonFetchJSONfromServer.html" />
+        <item itemvalue="JavaScript Debug.keyValueObjectValuesNR.html" />
+        <item itemvalue="JavaScript Debug.forOfLoopAccessStringNR.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15353ffe-afd6-44e7-9471-c181ba865d62" name="Changes" comment="" />
+      <created>1707309259055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707309259055</updated>
+      <workItem from="1707309302398" duration="2766000" />
+      <workItem from="1707363184460" duration="38441000" />
+      <workItem from="1707531732545" duration="4513000" />
+      <workItem from="1707536296679" duration="4348000" />
+      <workItem from="1707563660660" duration="7087000" />
+      <workItem from="1707619592162" duration="16763000" />
+      <workItem from="1707642383899" duration="780000" />
+      <workItem from="1707643177014" duration="1434000" />
+      <workItem from="1707646139500" duration="9436000" />
+      <workItem from="1707662948028" duration="6848000" />
+      <workItem from="1707720159788" duration="17392000" />
+      <workItem from="1707809798838" duration="338000" />
+      <workItem from="1707823514911" duration="24000" />
+      <workItem from="1707824293747" duration="631000" />
+      <workItem from="1707826660523" duration="644000" />
+      <workItem from="1707836344481" duration="636000" />
+      <workItem from="1708002597724" duration="8857000" />
+      <workItem from="1708048787935" duration="137000" />
+      <workItem from="1708069215235" duration="2489000" />
+      <workItem from="1708083597489" duration="92000" />
+      <workItem from="1708126332255" duration="725000" />
+      <workItem from="1708127957940" duration="11513000" />
+      <workItem from="1708170650283" duration="1318000" />
+      <workItem from="1708173429093" duration="8792000" />
+      <workItem from="1708218279040" duration="6279000" />
+      <workItem from="1708243688252" duration="2470000" />
+      <workItem from="1708252324511" duration="11521000" />
+      <workItem from="1708266568794" duration="417000" />
+      <workItem from="1708301878192" duration="12815000" />
+      <workItem from="1708324940905" duration="8791000" />
+      <workItem from="1708391082657" duration="4950000" />
+      <workItem from="1708421145186" duration="961000" />
+      <workItem from="1708693008045" duration="624000" />
+      <workItem from="1708798676903" duration="9616000" />
+      <workItem from="1708834650258" duration="2979000" />
+      <workItem from="1708922425788" duration="1326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mysite2$PythonPathcheck.coverage" NAME="PythonPathcheck Coverage Results" MODIFIED="1707453579573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mysite2$Test__polls_tests_QuestionIndexViewTests.coverage" NAME="Test: polls.tests.QuestionIndexViewTests Coverage Results" MODIFIED="1707491413117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mysite2$Test__polls_tests.coverage" NAME="Test: polls.tests Coverage Results" MODIFIED="1707489112433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mysite2$PythonPathcheck__1_.coverage" NAME="PythonPathcheck (1) Coverage Results" MODIFIED="1707544118522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysite2" />
+    <SUITE FILE_PATH="coverage/mysite2$Test__polls_tests_QuestionModelTests_test_was_published_recently_with_future_question.coverage" NAME="Test: polls.tests.QuestionModelTests.test_was_published_recently_with_future_question Coverage Results" MODIFIED="1707488697482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mysite2$Test__polls_tests_QuestionModelTests.coverage" NAME="Test: polls.tests.QuestionModelTests Coverage Results" MODIFIED="1707489063599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

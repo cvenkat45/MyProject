@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Finding HTML Elements Using document.links</h2>
+
+<p>
+<a href="/html/default.asp">HTML</a>
+<br>
+<a href="/css/default.asp">CSS</a>
+</p>
+
+<p id="demo"></p>
+<p id="pid1"></p>
+
+<script>
+document.getElementById("demo").innerHTML =
+"Number of links: " + document.links.length;
+
+let x = document.links;
+let txt = "";
+for (i = 0; i < x.length; i++) {txt += x[i].innerHTML + "<br>"}
+document.getElementById("pid1").innerHTML = txt;
+</script>
+
+</body>
+</html>
